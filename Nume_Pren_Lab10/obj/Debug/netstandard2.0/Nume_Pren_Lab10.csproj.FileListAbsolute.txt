@@ -1,0 +1,17 @@
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/bin/Debug/netstandard2.0/Nume_Pren_Lab10.deps.json
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/bin/Debug/netstandard2.0/Nume_Pren_Lab10.dll
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/bin/Debug/netstandard2.0/ref/Nume_Pren_Lab10.dll
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/bin/Debug/netstandard2.0/Nume_Pren_Lab10.pdb
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/Nume_Pren_Lab10.csprojAssemblyReference.cache
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/ListEntryPage.xaml.g.cs
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/ListPage.xaml.g.cs
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/ProductPage.xaml.g.cs
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/Nume_Pren_Lab10.AssemblyInfoInputs.cache
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/Nume_Pren_Lab10.AssemblyInfo.cs
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/Nume_Pren_Lab10.csproj.CoreCompileInputs.cache
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/Nume_Pren_Lab10.dll
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/ref/Nume_Pren_Lab10.dll
+/Volumes/HDD/Facultate/An 3 Sem 1/Medii de programare/Project/Nume_Pren_Lab10/Nume_Pren_Lab10/obj/Debug/netstandard2.0/Nume_Pren_Lab10.pdb
